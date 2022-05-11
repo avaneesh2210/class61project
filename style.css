@@ -1,0 +1,129 @@
+#1stimage {
+    border-radius: 100px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    top: 0px;
+    right: 30px;
+    cursor: pointer;
+    color: red;
+    z-index: 10;
+    position: absolute;
+    display: inline-flex;
+}
+
+.menu a {
+    color: black !important;
+}
+
+.font {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.link:hover {
+    background-color: yellow;
+}
+
+.link {
+    padding-right: 15px;
+    color: crimson;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-bottom: 5px;
+}
+
+#hobby {
+    margin-top: 50px;
+}
+
+.line {
+    background-color: black;
+    height: 5px;
+    width: 100px;
+    margin: 8px auto;
+    margin-top: 5px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: coral;
+    text-align: center;
+}
+
+#hobby {
+    font-size: 26px;
+    color: black;
+    font-weight: bold;
+}
+
+#MyFavouritePlayers {
+    font-size: 26px;
+    color: black;
+    font-weight: bold;
+}
+
+#Inspiration {
+    font-size: 26px;
+    color: black;
+    font-weight: bold;
+}
+
+#MyWork {
+    font-size: 26px;
+    color: black;
+    font-weight: bold;
+}
+
+#Contact {
+    font-size: 26px;
+    color: black;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+#Contact a {
+    font-size: 30px !important;
+    font-family: 'Courgette', cursive !important;
+}
+
+#my_name {
+    font-family: cursive;
+    color: black;
+}
+
+h1 {
+    color: darkgreen;
+    font-size: 20px;
+}
+
+#cricket {
+    font-size: 22px;
+}
+
+img {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#myName {
+    color: blue;
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: cyan;
+}
